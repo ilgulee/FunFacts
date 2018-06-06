@@ -33,7 +33,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
         android:background="@android:color/white"
-        android:textColor="#51b46d"
-        android:text="show another fun fact" />
+        android:text="show another fun fact"
+        android:textColor="#51b46d" />
 
 </RelativeLayout>
